@@ -8,3 +8,6 @@ For ex.<br>
 341212345612345 -> 3412 123456 12345 ( Amex )
 
 You can even keep the format while editing middle of the string.
+
+Test this script on
+https://jsfiddle.net/sagitarian/0rz1ques/
