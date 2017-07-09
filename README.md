@@ -10,5 +10,5 @@ Change string in a input field into proper credit card number format.
 You can even keep the format while editing middle of the string.
 
 Test this script on
-https://jsfiddle.net/sagitarian/0rz1ques/
+https://jsfiddle.net/sagitarian/0rz1ques/7/
 
