@@ -84,5 +84,5 @@
         input.addEventListener('change',_set_creditcard_number)
     }
 
-    window.credit_card_field = make_credit_card_input
+    window.credit_card_input = make_credit_card_input
 })()
