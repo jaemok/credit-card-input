@@ -32,7 +32,7 @@
         return cc?cc.match(/[0-9]{1,4}/g).join(' '):''
     }
     _CARD_TYPES = [
-        {'type':'visa','pattern':/^4/, 'format': _format_4444, 'maxlength': 19},
+        {'type':'visa','pattern':/^4/, 'format': _format_4444, 'maxlength': 16},
         {'type':'master','pattern':/^((5[12345])|(2[2-7]))/, 'format': _format_4444, 'maxlength': 16},
         {'type':'amex','pattern':/^3[47]/, 'format': _format_465, 'maxlength':15},
         {'type':'jcb','pattern':/^35[2-8]/, 'format': _format_465, 'maxlength':19},
